@@ -1,0 +1,53 @@
+body{
+  font-family:  Geneva, sans-serif;
+  font-size: smaller;
+  line-height: 1.4em;
+
+}
+h1, h2 {
+  color: black;
+}
+h1 {
+  font-size: 120%;
+}
+h2 {
+  font-size: 110%;
+}
+em{
+  font-family: serif;
+}
+p.greentea {
+  color: green;
+}
+p.raspberry{
+  color: blue;
+}
+p.blueberry {
+  color: purple;
+}
+p.red {
+  color: red;
+}
+.guarantee{
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  padding: 5px;
+  padding-left: 5%;
+  padding-right: 20%;
+  margin: 5px;
+  color: #444444;
+  font-style: italic;
+  font-family: Geneva, serif;
+  line-height: 1.2em;
+}
+p#footer {
+  font-size: small;
+  color: red;
+}
+.cd {
+  font-style: italic;
+}
+.artist {
+  font-weight: bold;
+}

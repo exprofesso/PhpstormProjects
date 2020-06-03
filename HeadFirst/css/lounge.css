@@ -1,0 +1,102 @@
+
+body{
+  font-family:  Geneva, sans-serif;
+  font-size: small;
+  line-height: 1.6em;
+
+}
+h1, h2 {
+  color: #007e7e;
+}
+h1 {
+  font-size: 150%;
+}
+h2 {
+  font-size: 130%;
+}
+em{
+  font-family: serif;
+}
+p.greentea {
+  color: green;
+}
+p.raspberry{
+  color: blue;
+}
+p.blueberry {
+  color: purple;
+}
+p.red {
+  color: red;
+}
+.guarantee{
+  border-color: black;
+  border-width: 5px;
+  border-style: double;
+  background-color: #a7cece;
+  padding: 25px 30% 25px 80px;
+  margin: 30px 18% 30px 30px;
+  color: #444444;
+  font-style: italic;
+  font-family: Geneva, serif;
+  line-height: 1.2em;
+  background-image: url(../img/lounge/background.gif);
+  background-repeat: no-repeat;
+  background-position: top left;
+  border-radius: 15px;
+}
+#elixirs{
+  border-width: thin;
+  border-style: solid;
+  border-color: #007e7e;
+  padding: 1%;
+  margin-left: 5%;
+  width: 15%;
+  background-image: url("../img/lounge/cocktail.gif");
+  background-position: top;
+  background-repeat: repeat-x;
+  text-align: center;
+  line-height: 1;
+  float: right;
+
+}
+#elixirs h2{
+  font-weight: bolder;
+  color: black;
+}
+#elixirs h3{
+  font-weight: bolder;
+  color: red;
+}
+#elixirs a:link{
+  color: #007e7e;
+}
+#elixirs a:visited{
+  color: #333333;
+}
+#elixirs a:hover{
+  color: #0d5353;
+  background: #f88396;
+  margin-top: 30px;
+}
+
+p#footer {
+  font-size: 50%;
+  color: red;
+}
+.cd {
+  font-style: italic;
+}
+.artist {
+  font-weight: bolder;
+}
+
+a:link {
+  color: green;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  color: yellow;
+}
